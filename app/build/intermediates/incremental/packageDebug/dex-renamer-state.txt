@@ -1,0 +1,7 @@
+#Sat Feb 04 06:05:28 ICT 2017
+base.0=X\:\\SEKOLAH\\DATA KAMPUS\\TAHUN 3\\SEMESTER 6\\CAPSTONE\\CheckIndomaret\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c1c0efffc9c64c143b3db19fa12f7a74f0329dc1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=X\:\\SEKOLAH\\DATA KAMPUS\\TAHUN 3\\SEMESTER 6\\CAPSTONE\\CheckIndomaret\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_11f1cc1bf79ad9ca7daebc5c86094d29bc22b21b\\classes.dex
+base.1=X\:\\SEKOLAH\\DATA KAMPUS\\TAHUN 3\\SEMESTER 6\\CAPSTONE\\CheckIndomaret\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_11f1cc1bf79ad9ca7daebc5c86094d29bc22b21b
+file.0=X\:\\SEKOLAH\\DATA KAMPUS\\TAHUN 3\\SEMESTER 6\\CAPSTONE\\CheckIndomaret\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c1c0efffc9c64c143b3db19fa12f7a74f0329dc1\\classes.dex

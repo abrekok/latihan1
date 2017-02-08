@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\qalbins\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_de368d1f57556f878641e092452e6904edd25390\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_336a84e10ff70a74cc4c0508178a1d7c6370f9af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_bc5fbcd493fe911b7402cbfcf4049f268f190602\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_8b6834de4966995a7c68c3fee8c3fd52246b2387\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_1ffce6dfd0d41f5e55dbe05716aa688531856e48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_1180640f60e6c55f6457e1d3ce7ba331b571a759\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_8986ac9d1f2efc80daf3705c607f4960e1ea12cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_d861c61f2d3c6f4cf5b431d9c8ccac93f92c893d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_5b548f3f05f020a9cd93db610eed65bc4b6234be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_100822c72be93df4d0350e662eb5cfff79254b6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_34493ef5cf1b2ecbb463643190d763429f9300fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_afe13c6038d02c1599110068823c1a798b60dedd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_9b7dff7c658c4a1060e5286f1818127b8569623d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_623c68e15883e873739dbe16f43b82a88be0d7e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_b8eb03273896df620198bbfaded077d163d750af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_dded18cf4364c832f6f15823afcd772b52484be6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_23bbcdd77d47716575a8b0a0867aa31de97d39f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_19f5c031298f9d279d8dc9f515bc275af3a6197b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_5a8bdc943dbb138e0007146c1e3e7d265221ea89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_92f56d7b5988f3215f1d10ec594fc1f7c53c3816\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_f4bbdd45e205ee14a07ddd67c60669430dfa1b0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_6d57ae080815b54c869f95f1fc7af1298cb4573e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_15d29d8c109d78e4833452daf443af337fb89dc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_2135c6b7c41183148d6043ed4b767ef7466be642\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_3e907d48081dbb82aa11bd13f2e2f1d207893ad0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_0f98483bd0c12c7075af06e15f7de2d2114facc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_f448f43773cc6a12449263d46c3888f2344261c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_c695d24b781f89c2ebe5852fb11082fa14732ca7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_4b50e737cad70fe8b1ba786b8f9ffa9e935867c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_842df0f5d962dcb232216bbccacab57ce519251b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_ed24855060d4653e3bb08029849106f6840c39e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_16067dda0a94f8bf8f2302d2be6551394dc742bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_aa96f5a01ba2339c6a6c305b5b80959c6767655e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d30226d074af64a0b0640db5d5afd4234e5c381c">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c1c0efffc9c64c143b3db19fa12f7a74f0329dc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_178e5318353fe02ff45090f87da1986db8478fca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_1b112fe2cf475bb41d276b33dcee9256d449d9a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_ffb6d5d0e67b91ba45e9a593568351bcf041957c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_9ef0431a0fd5a71680ee7b6c1bfedc1120916c18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_2cd183f1fcd97d2e9cdb4c64e1a8f05be0b82d86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_06a6982cd17e269d51662ddaa403128ff54ccd7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_33d7eaf0310fb12bbfe8a3df545b65f868a5a890\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_3bd6c5f2207a304bbce0036b0d08f158121c215e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_aa10a7546d2e5ce8f4a2b57c7452cfee352f86d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_b48ce159b87518617977ecaee0aada0452ea58c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_685fa4cd4efb90ecbf84b6caafcbd6a58606e4af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_17fce1c1f459675cf404a8ccf8eedf8a3584262b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_14497235b3550edfca9875eb504c8ce1b56920e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_a997de0fa447ad71fb233ba728425849f5b20fba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_2323f5c8e1db2822769ea67274dc3110d41ffc61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_0f416fd7566e904f79f835a8e36372f845839311\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_a45be13d8b928ceda182ae961837b79203b243e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_d29e5e91fca0356a0ead36d8fec2fc42656fb326\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_6ce37458a98fa2917dbabfee8b92b0cb5c07cafd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_4752f90dfabf137d2498104534b67d9b156f8d99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_f1bae108276a13b978c02c134ee761cb72b956b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_26107babbca2366a98d1b9762805a172375ac5e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_37aa306af06e4a4088396cf548e3f3550b5b165f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_529bbbb6e10e5820e6eff8905c8cf154c0b62321\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_d7824ad1bd8467549acfbc9809729109578bf591\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_fca35d807458fa27f8aaabdbee5ed7f7f00e043e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_f22d14fa8d4fd5cd65d750f6c369795d16e25a3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_d7c62c6c5767a9bc87739b4d8652e8cc7c8866bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e54d01292a4480fcb822901a8e35bb43562ed737">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_11f1cc1bf79ad9ca7daebc5c86094d29bc22b21b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_5db1f22ee4d554caccf762c8a69382a5bb5d0b5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_5e43a6125e97e9e7d7315a23524f5a9e75480aab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="X:\SEKOLAH\DATA KAMPUS\TAHUN 3\SEMESTER 6\CAPSTONE\CheckIndomaret\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_54e94f508240f32e01e4685be027337a682bf2e2\classes.dex" />
+    </item>
+
+</items>
